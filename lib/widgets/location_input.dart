@@ -49,6 +49,7 @@ class _LocationInputState extends State<LocationInput> {
   @override
   Widget build(BuildContext context) {
 
+
     Widget previewContent =Text(
         'No location chosen',
         textAlign: TextAlign.center,
