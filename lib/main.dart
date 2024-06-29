@@ -9,7 +9,7 @@ final colorScheme = ColorScheme.fromSeed(
   background: const Color.fromARGB(255, 56, 49, 66),
 );
 
-final theme = ThemeData().copyWith(
+final theme = ThemeData().copyWith( 
   useMaterial3: true,
   scaffoldBackgroundColor: colorScheme.background,
   colorScheme: colorScheme,

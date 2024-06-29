@@ -8,11 +8,11 @@ Favourite Places app allows users to add and name locations, displaying each pla
 * flutter_riverpod: ^2.5.1
 * image_picker: ^1.1.1
 * location: ^6.0.2
-*   http: ^1.2.1
-*   google_maps_flutter: ^2.6.1
-*   path_provider: ^2.1.3
-*   path: ^1.9.0
-*   sqflite: ^2.3.3+1
+* http: ^1.2.1
+* google_maps_flutter: ^2.6.1
+* path_provider: ^2.1.3
+* path: ^1.9.0
+* sqflite: ^2.3.3+1
 
 ## In this Project
 * pick image
